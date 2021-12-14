@@ -16,12 +16,12 @@ I utilized media queries mainly for images, typography and layout structure.
 
 The responsive layout was build with both CSS Grid & Flexbox, which was great to understand how both work, in particular when to utilize one or the other. I utilized grid for areas that I was looking for a precise content placement, and flex box mainly for the sections that are set to 100vh with vertical centre content, as this technique enables me to allocate space and align items flexibly as they stretch out as far as needed.
 
-These technques helped create a relative minimal media queries.
+These techniques helped create a relative minimal media queries.
 
 
 ## Navigation
 
-The main navigation is common and ledas to all pages within the site.
+The main navigation is common and leads to all pages within the site.
 I have added some additional links, such as:
 
 playground.html(page)
