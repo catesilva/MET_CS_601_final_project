@@ -33,7 +33,7 @@ Images are all responsive and will automatically adjust to fit the size of the s
 
 
 ## Cross Browser
-
+Compatible with at least the 3 main major browsers, mozilla, safari and google chrome
 
 ## Snippets
 
@@ -42,13 +42,16 @@ One of the most interesting elements on the site is the waving hand emoji that w
 
 ## JavaScript
 
-I utilized javaascript in 3 parts of the site: to install vue, validate the form & implement copy to clipboard function.
+I utilized javaascript in 3 parts of the site: to install vue, validate the form & implement copy to clipboard function, which was implemented to allow users to easily copy my email
 
 
 ##  JavaScript is required
+Added the no script tag
 
 
 ## Extra Credit
+
+Added animation, invested time in the style
 
 ##  End
 
