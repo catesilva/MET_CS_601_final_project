@@ -582,8 +582,11 @@ h2, h3 {
      h1 {
          font-size: 3rem;
     }
-    .img-rounded {
-         border-radius: 0.3rem;
+    .img-rounded{
+         border-radius: 0.1rem;
+    }
+    .gallery__item {
+         border-radius: 0.5rem;
     }
     .contact-me .col-layout{
          display: block;
@@ -594,6 +597,9 @@ h2, h3 {
     }
      .light{
     color:var(--mid-grey);
+    }
+    .gallery {
+    grid-gap: 0.5rem;
     }
 }
 
