@@ -29,15 +29,16 @@ playground.html(page)
 
 ## Alt
 
-Images are all responsive and will automatically adjust to fit the size of the screen
+Alt tags are extensively utilized, to allow for people who use screen readers to access websites. Images are all responsive and will automatically adjust to fit the size of the screen.  
 
 
 ## Cross Browser
 Compatible with at least the 3 main major browsers, mozilla, safari and google chrome
 
-## Snippets
+## Interesting CSS Animation
 
 One of the most interesting elements on the site is the waving hand emoji that will actually wave. The aim of this element's connect with the audience, this is accomplished by the use of animation types that allow the property to be animated with keygframes.
+Another interesting one for me is the pulsating heart.
 
 
 ## JavaScript
