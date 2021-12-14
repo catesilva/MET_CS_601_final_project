@@ -539,9 +539,9 @@ input[type=text], input[type=email] {
     /* style rules */
 }
 
-/* For mobile devices */
- @media only screen and (max-width: 767px) {
-     .social-list, .tla-layout, .offset-layout{
+
+@media only screen and (max-width: 767px) {
+    .social-list, .tla-layout, .offset-layout{
          display: grid;
          grid-template-columns: 1fr ;
     }
@@ -561,23 +561,22 @@ input[type=text], input[type=email] {
     font-size: 0.6rem;
     line-height: 0.7rem;
     }
+     .light{
+    color:var(--mid-grey);
+    }
 }
+
 /* For ipad devices */
- @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
-    /* For general iPad layouts */
-     .social-list, .tla-layout, .offset-layout{
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+    .social-list, .tla-layout, .offset-layout{
          display: grid;
          grid-template-columns: 1fr 1fr;
     }
-     .bottom-to-top {
+    .bottom-to-top {
     font-size: 0.6rem;
     line-height: 0.7rem;
     }
 }
-
-
-
-
 
 ul.nesting-list {
     margin: 2rem 0px;
