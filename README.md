@@ -40,7 +40,7 @@ Images are all responsive and will automatically adjust to fit the size of the s
 One of the most interesting elements on the site is the waving hand emoji that will actually wave. The aim of this element's connect with the audience, this is accomplished by the use of animation types that allow the property to be animated with keygframes.
 
 
-c JavaScript
+## JavaScript
 
 I utilized javaascript in 3 parts of the site: to install vue, validate the form & implement copy to clipboard function.
 
